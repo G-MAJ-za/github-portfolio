@@ -11,3 +11,4 @@ Logistics Data Analyst @ Schaeffler Global Services Europe
 
 ### Projects
 - DataCamp project 1
+- SQL project 1
